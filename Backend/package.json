@@ -20,7 +20,7 @@
     "start": "node index.js",
     "create-sample-player": "node scripts/createSamplePlayer.js"
   },
-  "author": "Likhith B , Supriya S , Aparna Thipe",
+  "author": "Likhith B , Supriya S , Shreelakshmi DS",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
