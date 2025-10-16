@@ -82,7 +82,7 @@ sports-management-system/
 
 - **Likhith B** – U24AN22S0079
 - **Supriya S** – U24AN22S0394
-- **Aparna V ** – U24AN22S0090
+- **Shreelakshmi DS ** – U24AN22S0105
 
 ---
 
